@@ -26,7 +26,7 @@ I am an ICT Application Development student passionate about software developmen
 - Provided screenshots as evidence of deployment  
 
 ---
-## 🧠 Reflection: Coding in Markdown (STAR Method)
+## Reflection: Coding in Markdown (STAR Method)
 
 **Situation:**  
 I was required to create a professional portfolio using Markdown on GitHub.
@@ -134,7 +134,8 @@ National Senior Certificate (NSC) – 2022
 📞 0736914872  
 ## 📄 My CV
 👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Lucky%20Twala%20CV%20Si.pdf)
-## 📄 Reflection: Creating My CV (STAR Method)
+
+## Reflection: Creating My CV (STAR Method)
 **S** - Situation
 
 **T** - Task
@@ -163,7 +164,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ![image alt](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png)
 👉[View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
 
-**Reflection🧠 (STAR Method):**
+**Reflection (STAR Method):**
 **STAR Method:**
 
 **S** - Situation
@@ -193,7 +194,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github_Pages.png)
 👉 [View Github Pages]( https://lucky25sn.github.io/LuckyTwala-Portfolio/)
 
-**Reflection🧠 (STAR Method):**
+**Reflection (STAR Method):**
 **STAR Method:**
 
 **S** - Situation
