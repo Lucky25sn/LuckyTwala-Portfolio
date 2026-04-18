@@ -161,7 +161,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ---
 ## Evidence:
 ![image alt](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png)
-[View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
+👉[View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
 
 **Reflection🧠 (STAR Method):**
 **STAR Method:**
@@ -191,6 +191,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ## Evidence:
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github%20Pages.png)
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github_Pages.png)
+👉 [View Github Pages]( https://lucky25sn.github.io/LuckyTwala-Portfolio/)
 **Reflection🧠 (STAR Method):**
 **STAR Method:**
 
