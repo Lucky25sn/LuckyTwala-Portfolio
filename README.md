@@ -187,7 +187,7 @@ I successfully created a professional and well-structured CV that effectively sh
 * I was able to answer questions more confidently and in a structured way. The experience improved my communication skills and helped me manage interview anxiety. I also gained a better understanding of how to present my skills and experiences professionally.
 ---
 ## 🌍 Reflection: GitHub Pages (STAR Method)
-
+![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github%20Pages.png)
 **Situation:**  
 I was required to publish my portfolio using GitHub Pages.
 
