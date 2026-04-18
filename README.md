@@ -1,29 +1,29 @@
-# LuckyTwala-Portfolio
-# 👨‍💻 Lucky July Twala - Digital Portfolio
-## 📌 About Me
-I am an ICT Application Development student passionate about software development and web development. This portfolio showcases my work readiness training, projects, and reflections.
+##  Digital Portfolio
+# 👨‍💻 Lucky July Twala 
+## About Me
+I am an ICT Application Development student passionate about software development, Data Analytics and web development. This portfolio showcases my work readiness training, projects, and reflections.
+
+---
+## Steps Followed to Create My Digital Portfolio
+
+### 📄 My CV
+- Created my CV using Markdown  
+- Structured the content clearly with headings and sections  
+- Included personal details, education, skills, and projects  
 
 ---
 
-## 📄 My CV
-👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Lucky%20Twala%20CV%20Si.pdf)
+### 🎥 Mock Interview Video
+- Completed a mock interview  
+- Recorded the session as part of work readiness training  
+- Applied the STAR method to reflect on my performance  
 
 ---
 
-## 🎥 Mock Interview Video
-<video width="600" controls>
-  <source src="video/mock-interview.mp4" type="video/mp4">
-</video>
-
----
-
-## 🧠 Reflections (STAR Method)
-👉 [View Reflections](reflection.md)
-
----
-
-## 🚀 GitHub Pages
-This portfolio is published using GitHub Pages.
+### 🚀 GitHub Pages
+- Enabled GitHub Pages in my repository settings  
+- Generated a public link for my portfolio  
+- Provided screenshots as evidence of deployment  
 
 ---
 ## 🧠 Reflection: Coding in Markdown (STAR Method)
