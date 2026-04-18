@@ -188,6 +188,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ---
 ## 🌍 Reflection: GitHub Pages (STAR Method)
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github%20Pages.png)
+![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github_Pages.png)
 **Situation:**  
 I was required to publish my portfolio using GitHub Pages.
 
