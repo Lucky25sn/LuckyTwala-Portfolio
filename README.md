@@ -6,7 +6,7 @@ I am an ICT Application Development student passionate about software developmen
 ---
 
 ## 📄 My CV
-👉 [View My CV](cv.md)
+👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Lucky%20Twala%20CV%20Si.pdf)
 
 ---
 
