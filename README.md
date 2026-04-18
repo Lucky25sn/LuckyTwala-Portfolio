@@ -192,6 +192,7 @@ I successfully created a professional and well-structured CV that effectively sh
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github%20Pages.png)
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github_Pages.png)
 👉 [View Github Pages]( https://lucky25sn.github.io/LuckyTwala-Portfolio/)
+
 **Reflection🧠 (STAR Method):**
 **STAR Method:**
 
