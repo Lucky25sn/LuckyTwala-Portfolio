@@ -72,64 +72,52 @@ National Senior Certificate (NSC) – 2022
 
 ## 💻 Technical Skills
 
-### Programming Languages
-- Java  
-- Python  
-- JavaScript  
-- SQL  
-
-### Front-End Technologies
-- HTML  
-- CSS  
-- JavaScript  
-
-### Tools & Platforms
-- Git & GitHub  
-- Power BI  
-- Visual Studio Code  
-- NetBeans  
-- IntelliJ IDEA  
-- MySQL Workbench  
-- Microsoft Tools  
-
-### Databases
-- MySQL  
-
-### Methodologies & Concepts
-- Agile  
-- Object-Oriented Programming (OOP)  
-- Software Development Life Cycle (SDLC)  
-
-### Professional Skills
-- Problem-solving  
-- Team collaboration  
-- Time management  
-- Communication skills  
-- Project planning and organisation  
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Web:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Power BI  
+- **Database:** MySQL  
+- **Concepts:** OOP, SDLC, Agile  
 
 ---
 
-## Projects
+## KEY PROJECTS
 
-### Academic Projects
-- Led academic projects, ensuring deadlines were met and effective team collaboration  
-- Developed responsive websites and client-server applications  
-- Used GitHub for version control and teamwork  
-- Assisted peers in understanding technical concepts  
+### Responsive Web Application
+- Built responsive website using HTML, CSS, JavaScript  
+- Designed clean, user-friendly interface with mobile responsiveness  
+- 🔗 Add GitHub link  
 
-### Data & Analytics Projects
-- Built interactive Power BI dashboards using real-world datasets  
-- Performed data cleaning and transformation using Power Query and Excel  
+### Client-Server Application (Java)
+- Developed Java-based client-server system  
+- Implemented communication between client and server using OOP principles  
+- 🔗 Add GitHub link  
+
+### Power BI Data Dashboard
+- Created interactive dashboard using Power BI  
+- Cleaned and transformed data using Power Query & Excel  
+- Generated insights from real-world datasets  
+
+---
+
+## LEADERSHIP & ACTIVITIES
+- **Inclusivity & Diversity Champion (University):** Led student engagement initiatives  
+- **RCL Member (High School):** Represented student body in decision-making  
+- **Volleyball Team Leader:** Demonstrated teamwork and leadership  
+
+---
+
+## PROFESSIONAL SKILLS
+Problem-solving • Teamwork • Communication • Time management • Project planning  
 
 ---
 
 ## References
 
-**Siphokazi Tswane (CPUT)**  
+**Siphokazi Tswane (CPUT)(lecture)**  
 📧 tswanes@cput.ac.za  
 📞 (021) 460 3010  
 
-**Nompumelelo Mahlaba (Iphondle SSS)**  
+**Nompumelelo Mahlaba (Iphondle SSS)(Teacher)**  
 📧 lelojoy8@gmail.com  
 📞 0736914872  
 ## 📄 My CV
