@@ -54,9 +54,7 @@ I successfully created a clean and professional portfolio that is easy to read a
 ---
 
 ## 🧑‍💻 Profile
-I am an ICT Application Development final-year student with experience in both front-end and back-end development. I build responsive websites, manage databases, and create client–server applications. 
-
-I have completed academic and practical projects, working closely with teams to turn ideas into functional software. I am capable of managing projects effectively and delivering reliable, scalable, and user-friendly solutions that meet both project goals and user needs.
+Final-year ICT Application Development student seeking Work Integrated Learning (WIL) or internship in software development or IT. Skilled in building responsive web applications, working with databases, and developing client-server systems through academic projects. Strong team player with leadership experience and a passion for solving real-world problems using technology.
 
 ---
 
