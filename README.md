@@ -207,9 +207,15 @@ This experience helped me identify areas for improvement, such as speaking more 
 ![image alt](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Github_Pages.png)
 👉 [View Github Pages](https://github.com/Lucky25sn/LuckyTwala-Digital-Portfolio/settings/pages)
 
-**Reflection (STAR Method):**
-**STAR Method:**
+## Reflection: GitHub Pages
 
+Using GitHub Pages was a new experience for me. At first, I did not fully understand how deployment works and how to make my portfolio accessible online.
+
+As I worked through the process, I learned how to enable GitHub Pages and link it to my repository. Although I faced some challenges, I was able to successfully generate a public link.
+
+This experience helped me understand the basics of web deployment and the importance of making projects accessible online. It also motivated me to improve my portfolio further.
+
+## STAR Method: Github Pages
 **S** - Situation
 
 **T** - Task
