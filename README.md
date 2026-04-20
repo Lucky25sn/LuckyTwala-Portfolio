@@ -26,19 +26,30 @@ I am an ICT Application Development student passionate about software developmen
 - Provided screenshots as evidence of deployment  
 
 ---
-## Reflection: Coding in Markdown (STAR Method)
+## Reflection: Coding in Markdown
 
-## 1. Situation:  
-- I was required to create a professional portfolio using Markdown on GitHub.
+Learning Markdown was an important part of creating my digital portfolio. At first, I found it challenging because I was used to working with graphical editors like Microsoft Word. Markdown requires you to remember syntax such as headings, lists, and links, which was new to me.
+
+However, as I practiced, I began to understand how simple and powerful Markdown is. It allowed me to structure my content clearly and professionally without needing complex tools. I was able to organise my CV, projects, and sections in a clean and readable way.
+
+This experience improved my attention to detail and taught me the importance of clear documentation in software development. I now feel more confident using Markdown for GitHub projects and technical documentation.
+
+---
+
+## STAR Method: Coding in Markdown
+
+## 1. Situation: 
+- I was required to create a digital portfolio using Markdown on GitHub as part of my assessment.
 
 ## 2. Task:  
-- My task was to learn Markdown syntax and use it to structure my portfolio clearly.
+- My task was to learn Markdown syntax and use it to create a structured and professional portfolio.
 
 ## 3. Action: 
-- I researched Markdown formatting, practiced headings, links, and embedding media, and applied consistent structure across my files.
+- I researched Markdown, practiced formatting (headings, lists, links), and applied it to organise my CV and portfolio content clearly.
 
-**Result:** 
-I successfully created a clean and professional portfolio that is easy to read and well-organized.
+## 4. Result:  
+- I successfully created a clean, well-structured portfolio. I improved my technical documentation skills and gained confidence using Markdown.
+
 ---
 # 1. Created the CV
 # Evidence:
@@ -122,7 +133,17 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 ## 📄 My CV
 👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Lucky%20Twala%20CV%20Si.pdf)
 
-## Reflection: Creating My CV (STAR Method)
+## Reflection: Creating My CV
+
+Creating my CV using Markdown was a valuable learning experience. Initially, I was unsure how to present my information in a professional way without using traditional tools like Microsoft Word. I had to think carefully about structure, clarity, and what information is most important to include.
+
+Through this process, I learned how to organise my skills, education, and projects in a way that is easy to read and relevant to employers. I also realised the importance of tailoring my CV to highlight my strengths as an ICT Application Development student.
+
+This task improved my ability to present myself professionally and helped me understand what employers look for in a CV. It also strengthened my confidence in using Markdown for real-world documentation.
+
+---
+
+## STAR Method: Creating My CV
 **S** - Situation
 
 **T** - Task
@@ -132,16 +153,16 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 **R** - Result
 
 ## 1. Situation: 
-- As part of my digital portfolio assessment, I was required to create a professional CV using Markdown that clearly presents my skills, education, and experience.
+- I was required to create a professional CV using Markdown as part of my digital portfolio.
 
-## 2. Task:  
-- My task was to design and structure a well-organised CV that highlights my technical abilities, academic background, and practical experience in a clear and professional format.
+## 2. Task: 
+- My task was to design a clear, well-structured CV that highlights my skills, education, and projects.
 
-## 3. Action:  
-- I carefully gathered all relevant information, including my education, technical skills, projects, and achievements. I used Markdown to structure the CV with headings, bullet points, and sections for easy readability. I also ensured that my skills were clearly categorised (programming, tools, databases, and professional skills) and included links to my GitHub and LinkedIn profiles.
+## 3. Action: 
+- I gathered all relevant information, organised it into sections (education, skills, projects), and used Markdown formatting to create a clean and readable layout.
 
-## 4. Result: 
-- I successfully created a professional and well-structured CV that effectively showcases my abilities as an ICT Application Development student. This process improved my ability to present information clearly, strengthened my understanding of Markdown, and prepared me for real-world job applications.
+## 4. Result:  
+- I successfully created a professional CV that clearly presents my strengths and improved my ability to structure and present information effectively.
 
 ---
 
@@ -151,9 +172,14 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 ![image alt](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Presentation%20Mock%20Interview.png)
 👉[View full presentation on OneDrive](https://github.com/Lucky25sn/Lucky25sn.github.io/blob/main/Mock_%20Interview_Video_%20LJ%20Twala.pptx)
 
-**Reflection (STAR Method):**
-**STAR Method:**
+## Reflection: Mock Interview Experience
 
+The mock interview was a valuable experience that helped me understand what to expect in a real job interview. Initially, I felt nervous and unsure about how to answer questions effectively.
+
+During the process, I realised the importance of preparation, confidence, and clear communication. Practicing answers beforehand helped me organise my thoughts better. I also learned how important body language and tone are during an interview.
+
+This experience helped me identify areas for improvement, such as speaking more confidently and structuring answers better. Overall, it prepared me for real interview situations and boosted my confidence.
+## STAR Method: Mock Interview
 **S** - Situation
 
 **T** - Task
