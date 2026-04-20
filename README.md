@@ -131,7 +131,7 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 📧 lelojoy8@gmail.com  
 📞 0736914872  
 ## 📄 My CV
-👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Portfolio/blob/main/Lucky%20Twala%20CV%20Si.pdf)
+👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Digital-Portfolio/blob/main/Lucky%5ETwala_CV.pdf)
 
 ## Reflection: Creating My CV
 
