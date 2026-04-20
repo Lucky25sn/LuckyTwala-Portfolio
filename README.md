@@ -29,13 +29,13 @@ I am an ICT Application Development student passionate about software developmen
 ## Reflection: Coding in Markdown (STAR Method)
 
 **Situation:**  
-I was required to create a professional portfolio using Markdown on GitHub.
+- I was required to create a professional portfolio using Markdown on GitHub.
 
 **Task:**  
-My task was to learn Markdown syntax and use it to structure my portfolio clearly.
+- My task was to learn Markdown syntax and use it to structure my portfolio clearly.
 
 **Action:**  
-I researched Markdown formatting, practiced headings, links, and embedding media, and applied consistent structure across my files.
+- I researched Markdown formatting, practiced headings, links, and embedding media, and applied consistent structure across my files.
 
 **Result:**  
 I successfully created a clean and professional portfolio that is easy to read and well-organized.
@@ -131,17 +131,17 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 
 **R** - Result
 
-**Situation:**  
-As part of my digital portfolio assessment, I was required to create a professional CV using Markdown that clearly presents my skills, education, and experience.
+## 1. Situation: 
+- As part of my digital portfolio assessment, I was required to create a professional CV using Markdown that clearly presents my skills, education, and experience.
 
-**Task:**  
-My task was to design and structure a well-organised CV that highlights my technical abilities, academic background, and practical experience in a clear and professional format.
+## 2. Task:  
+- My task was to design and structure a well-organised CV that highlights my technical abilities, academic background, and practical experience in a clear and professional format.
 
-**Action:**  
-I carefully gathered all relevant information, including my education, technical skills, projects, and achievements. I used Markdown to structure the CV with headings, bullet points, and sections for easy readability. I also ensured that my skills were clearly categorised (programming, tools, databases, and professional skills) and included links to my GitHub and LinkedIn profiles.
+## 3. Action:  
+- I carefully gathered all relevant information, including my education, technical skills, projects, and achievements. I used Markdown to structure the CV with headings, bullet points, and sections for easy readability. I also ensured that my skills were clearly categorised (programming, tools, databases, and professional skills) and included links to my GitHub and LinkedIn profiles.
 
-**Result:**  
-I successfully created a professional and well-structured CV that effectively showcases my abilities as an ICT Application Development student. This process improved my ability to present information clearly, strengthened my understanding of Markdown, and prepared me for real-world job applications.
+## 4. Result: 
+- I successfully created a professional and well-structured CV that effectively showcases my abilities as an ICT Application Development student. This process improved my ability to present information clearly, strengthened my understanding of Markdown, and prepared me for real-world job applications.
 
 ---
 
