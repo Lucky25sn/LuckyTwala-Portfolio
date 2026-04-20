@@ -72,7 +72,7 @@ National Senior Certificate (NSC) – 2022
 
 - **Languages:** Java, Python, JavaScript, SQL  
 - **Web:** HTML, CSS  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Power BI  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Microsoft tools 
 - **Database:** MySQL  
 - **Concepts:** OOP, SDLC, Agile  
 
