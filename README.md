@@ -28,16 +28,16 @@ I am an ICT Application Development student passionate about software developmen
 ---
 ## Reflection: Coding in Markdown (STAR Method)
 
-**Situation:**  
+## 1. Situation:  
 - I was required to create a professional portfolio using Markdown on GitHub.
 
-**Task:**  
+## 2. Task:  
 - My task was to learn Markdown syntax and use it to structure my portfolio clearly.
 
-**Action:**  
+## 3. Action: 
 - I researched Markdown formatting, practiced headings, links, and embedding media, and applied consistent structure across my files.
 
-**Result:**  
+**Result:** 
 I successfully created a clean and professional portfolio that is easy to read and well-organized.
 ---
 # 1. Created the CV
@@ -192,15 +192,15 @@ Problem-solving • Teamwork • Communication • Time management • Project p
 
 **R** - Result
 
-**Situation:**  
-As part of my digital portfolio assessment, I was required to publish my GitHub repository using GitHub Pages. I had limited experience with deploying projects online.
+## 1. Situation:  
+- As part of my digital portfolio assessment, I was required to publish my GitHub repository using GitHub Pages. I had limited experience with deploying projects online.
 
-**Task:**  
-My task was to enable GitHub Pages and provide evidence that my portfolio could be published and accessed online.
+## 2. Task:  
+- My task was to enable GitHub Pages and provide evidence that my portfolio could be published and accessed online.
 
-**Action:**  
-I navigated to my repository settings and enabled GitHub Pages by selecting the main branch. I configured the deployment settings and generated the GitHub Pages link. I then captured screenshots as evidence to show that the publishing process was completed successfully.
+## 3. Action:  
+- I navigated to my repository settings and enabled GitHub Pages by selecting the main branch. I configured the deployment settings and generated the GitHub Pages link. I then captured screenshots as evidence to show that the publishing process was completed successfully.
 
-**Result:**  
-I was able to successfully enable GitHub Pages and generate a live link for my repository. Although my portfolio was not fully structured with a main page, I gained an understanding of how GitHub Pages works and how to publish a project online. This experience improved my knowledge of deployment and prepared me to create a more complete and professional portfolio in the future.
+## 4. Result: 
+- I was able to successfully enable GitHub Pages and generate a live link for my repository. Although my portfolio was not fully structured with a main page, I gained an understanding of how GitHub Pages works and how to publish a project online. This experience improved my knowledge of deployment and prepared me to create a more complete and professional portfolio in the future.
 
