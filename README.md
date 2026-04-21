@@ -78,6 +78,16 @@ Diploma in ICT Application Development *(In Progress – 2026)*
 National Senior Certificate (NSC) – 2022  
 
 ---
+## 💼 Work Experience
+
+### Call Center Agent | Training Force  
+Cape Town, South Africa  
+**Jul 2025 – Oct 2025**  
+- Handled customer queries via inbound and outbound calls  
+- Captured and updated client data accurately in systems  
+- Resolved customer issues efficiently while maintaining service standards  
+- Developed strong communication, problem-solving, and customer service skills
+---
 
 ## 💻 Technical Skills
 
@@ -87,6 +97,13 @@ National Senior Certificate (NSC) – 2022
 - **Database:** MySQL  
 - **Concepts:** OOP, SDLC, Agile  
 
+---
+## 📜 Certificates
+
+### AWS Educate – Amazon Web Services (AWS)
+**Cloud Computing Fundamentals**
+- Completed AWS Educate program covering cloud concepts and core AWS services  
+- Gained foundational knowledge in cloud computing, storage, networking, and security on AWS
 ---
 
 ## KEY PROJECTS
