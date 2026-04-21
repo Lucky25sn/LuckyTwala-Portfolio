@@ -129,8 +129,6 @@ Cape Town, South Africa
 ## LEADERSHIP & ACTIVITIES
 - **Inclusivity & Diversity Champion (University):** Led student engagement initiatives  
 - **RCL Member (High School):** Represented student body in decision-making  
-- **Volleyball Team Leader:** Demonstrated teamwork and leadership  
-
 ---
 
 ## PROFESSIONAL SKILLS
